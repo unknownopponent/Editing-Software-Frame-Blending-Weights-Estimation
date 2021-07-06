@@ -5,7 +5,7 @@ Estimations made on version 2019. The option used to blend frames is interpolati
 Input framerate | Number of frames blended | Weights
 --- | --- | ---
 120 | 2 | 1 1
-180 | 4 | 4 13 18 13 5
+180 | 4 | 13 18 13 5
 240 | 5 | 9 13 13 9 5
 300 | 6 | 7 10 11 10 7 4
 360 | 7 | 6 8 9 9 8 6 4
